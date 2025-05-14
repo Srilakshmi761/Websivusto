@@ -1,0 +1,27 @@
+
+.custom-style {
+    background-color: rgba(143, 133, 133, 0.308); /* Background color */
+    padding: 20px; /* Padding for spacing */
+    display: flex; /* Flexbox for alignment */
+    align-items: center; /* Vertical alignment */
+    gap: 10px; /* Space between left and right sections */
+}
+p {
+    font-size: 25px; /* Adjust the font size */
+    font-family: Arial, sans-serif; /* Change the font style */
+}
+.navbar-toggler:hover {
+    background-color: #007bff; /* Change to your desired color */
+    border-color: #0056b3; /* Optional: Change border color */
+}
+.custom-heading {
+    font-size: 1.5rem; /* Adjust as needed */
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.custom-subheading {
+    font-size: 1.25rem; /* Adjust as needed */
+    font-weight: normal;
+     margin-top: 15px;
+}
